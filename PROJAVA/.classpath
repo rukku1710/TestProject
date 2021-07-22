@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/ryarrago/Documents/Projects/Automation/QG_PIMS/Jars/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ryarrago/Documents/Projects/Automation/QG_PIMS/Jars/activation-1.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ryarrago/Documents/Projects/Automation/QG_PIMS/Jars/com.beust.jcommander_1.72.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ryarrago/Documents/Projects/Automation/QG_PIMS/Jars/Excel Jars/commons-collections4-4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ryarrago/Documents/Projects/Automation/PROJAVA/Jars/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ryarrago/Documents/Projects/Automation/PROJAVA/Jars/activation-1.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ryarrago/Documents/Projects/Automation/PROJAVA/Jars/com.beust.jcommander_1.72.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ryarrago/Documents/Projects/Automation/PROJAVA/Jars/commons-collections4-4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ryarrago/Documents/Projects/Automation/PROJAVA/Jars/commons-io-1.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ryarrago/Documents/Projects/Automation/PROJAVA/Jars/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ryarrago/Documents/Projects/Automation/PROJAVA/Jars/extentreports-3.1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ryarrago/Documents/Projects/Automation/PROJAVA/Jars/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ryarrago/Documents/Projects/Automation/PROJAVA/Jars/guava-23.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ryarrago/Documents/Projects/Automation/PROJAVA/Jars/guice-4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ryarrago/Documents/Projects/Automation/PROJAVA/Jars/guice-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ryarrago/Documents/Projects/Automation/PROJAVA/Jars/itextpdf-5.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ryarrago/Documents/Projects/Automation/PROJAVA/Jars/javax.mail-1.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ryarrago/Documents/Projects/Automation/PROJAVA/Jars/javax.mail-1.6.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ryarrago/Documents/Projects/Automation/PROJAVA/Jars/javax.mail-api-1.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ryarrago/Documents/Projects/Automation/PROJAVA/Jars/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ryarrago/Documents/Projects/Automation/PROJAVA/Jars/mongo-java-driver-2.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ryarrago/Documents/Projects/Automation/PROJAVA/Jars/org.apache.commons.io.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ryarrago/Documents/Projects/Automation/PROJAVA/Jars/org.yaml.snakeyaml_1.21.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ryarrago/Documents/Projects/Automation/PROJAVA/Jars/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ryarrago/Documents/Projects/Automation/PROJAVA/Jars/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ryarrago/Documents/Projects/Automation/PROJAVA/Jars/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ryarrago/Documents/Projects/Automation/PROJAVA/Jars/reportng-1.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ryarrago/Documents/Projects/Automation/PROJAVA/Jars/Reusables-0.0.2-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ryarrago/Documents/Projects/Automation/PROJAVA/Jars/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ryarrago/Documents/Projects/Automation/PROJAVA/Jars/testng-7.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ryarrago/Documents/Projects/Automation/PROJAVA/Jars/testng-extentsreport-1.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ryarrago/Documents/Projects/Automation/PROJAVA/Jars/velocity-dep-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ryarrago/Documents/Projects/Automation/PROJAVA/Jars/VimalExtent.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ryarrago/Documents/Projects/Automation/PROJAVA/Jars/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ryarrago/Documents/Projects/Automation/PROJAVA/Jars/mssql-jdbc-8.4.1.jre11.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

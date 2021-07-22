@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+
+<testdata>
+
+   <environment envtype="UAT" execute="No">
+      <URL>https://www.youtube.com/</URL>
+      <Browser>IE</Browser>
+      <Timeout>60</Timeout>
+   </environment>
+   
+   <environment envtype="PROD" execute="Yes">
+      <URL>https://accounts.google.com/</URL>
+      <Browser>Chrome</Browser>
+      <Timeout>30</Timeout>
+   </environment>
+   
+</testdata>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Project_Java">
+	<test name="Project_Java_Test">
+		<classes>
+			<class name="testscripts.Sanity_Check"></class>
+		</classes>
+	</test>
+</suite>

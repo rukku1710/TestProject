@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="01:QG Supplier Exchange Check"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.857">
+  <properties />
+  
+  
+            <testcase name="QG_Login_Check" time="0.857" classname="testscripts.TC01_SE_Login" />
+      
+</testsuite>
