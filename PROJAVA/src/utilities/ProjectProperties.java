@@ -18,6 +18,7 @@ public class ProjectProperties
 	public static final String sTestOutputFolder = System.getProperty("user.dir") + "\\test-output\\";
 	public static final String sTestInputFolder = System.getProperty("user.dir") + "\\test-inputs\\";
 	public static final String sTestDataFile = "Project_Test_Data";
+	public static final String sTestDataFile1 = "Project_Test_Data1";
 	public static final String sPropertiesFileName = "ProjectData.properties";
 	
 	
